@@ -40,7 +40,6 @@ github final-year-projects cse Includes Source Code, PPT, Synopsis, Report, Docu
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -51,10 +50,14 @@ github final-year-projects cse Includes Source Code, PPT, Synopsis, Report, Docu
 
 ### Need Code, Documents & Explanation video ? 
 
-### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
+## How to Reach me :
 
-### 🌐 Website: https://www.finalproject.in/
+### Mail : vatshayan007@gmail.com 
 
-### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
+### Website : https://www.finalproject.in/
+
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
+
+Mail/Message me for Projects Help 🙏🏻
